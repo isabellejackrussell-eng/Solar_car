@@ -1,0 +1,9 @@
+C:\Users\alyss\OneDrive\LTSpice\enel372-ltspice\run_TL494_test_CEH.net(5): Unknown parameter
+R4 N009 0 50k?
+             ^
+C:\Users\alyss\OneDrive\LTSpice\enel372-ltspice\run_TL494_test_CEH.net(8): Unknown parameter
+V1 N001 0 15/Panel
+            ^^^^^^
+C:\Users\alyss\OneDrive\LTSpice\enel372-ltspice\run_TL494_test_CEH.net(19): Unknown parameter
+L1 N001 N002 L
+             ^
