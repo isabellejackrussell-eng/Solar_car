@@ -1,0 +1,19 @@
+LTspice 26.0.2 for MacOS
+Circuit: /Users/isabellerussell/Documents/Software/Solar car/Solar_car/Solar_Car_Simulation.net
+Start Time: Thu Aug 20 17:07:50 2026
+solver = Normal
+Maximum thread count: 10
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 1.772 seconds.
+
+Files loaded:
+/Users/isabellerussell/Documents/Software/Solar car/Solar_car/Solar_Car_Simulation.net
+/Users/isabellerussell/Library/Application Support/LTspice/Bottles/ltspice/drive_c/users/crossover/AppData/Local/LTspice/lib/cmp/standard.dio
+/Users/isabellerussell/Library/Application Support/LTspice/Bottles/ltspice/drive_c/users/crossover/AppData/Local/LTspice/lib/cmp/standard.mos
+/Users/isabellerussell/Documents/Software/Solar car/Solar_car/TL494_CEH.sub
+/Users/isabellerussell/Library/Application Support/LTspice/Bottles/ltspice/drive_c/users/crossover/AppData/Local/LTspice/lib/cmp/standard.bjt
+/Users/isabellerussell/Documents/Software/Solar car/Solar_car/UniversalOpamps2.sub
+

@@ -4,7 +4,7 @@ RECTANGLE Normal -64 -120 80 120
 WINDOW 0 8 -120 Bottom 2
 SYMATTR Prefix X
 SYMATTR Value TL494_CEH
-SYMATTR ModelFile \\file\Usersa$\abu128\Home\My Documents\Sarahs the best\Solar_car\TL494_CEH.sub
+SYMATTR ModelFile TL494_CEH.sub
 WINDOW 3 8 120 Top 2
 PIN -64 -96 LEFT 8
 PINATTR PinName DTC
